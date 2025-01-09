@@ -8,7 +8,7 @@
 ## Getting Started
 ### File Structure 
 ```
-ADV-TRA-master
+MFUE-master
 ├── models
 │   ├── __init__.py
 │   ├── densenet.py
