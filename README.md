@@ -1,4 +1,4 @@
-# From Adversarial to Unlearnable:  A Paradigm for Invariant Model Fingerprinting Across Model Modifications (MFUE)
+# Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples In Model-Parameter Space (MFUE)
 
 
 ## About the Project
